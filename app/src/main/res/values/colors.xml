@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_purple">#211A52</color>
+    <color name="deep_purple">#33267C</color>
+    <color name="pastel_orange">#FFD3B6</color>
+    <color name="accent_orange">#FF8C00</color>
+    <color name="bg_light">#F6F5FB</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_dark">#1A1633</color>
+    <color name="text_muted">#666180</color>
+</resources>

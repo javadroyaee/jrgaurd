@@ -1,0 +1,1 @@
+﻿-keep class ir.jrweb.jrguard.** { *; }

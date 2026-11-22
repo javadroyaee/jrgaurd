@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جی‌آرجان</string>
+    <string name="footer_credit">JRweb.ir</string>
+    <string name="notif_channel_name">پایش جلسه جی‌آرجان</string>
+    <string name="notif_title">جی‌آرجان فعال است</string>
+    <string name="notif_desc">ثبت فعالیت‌های پس از باز شدن قفل</string>
+</resources>
